@@ -1,0 +1,17 @@
+# latex files
+*.aux
+*.fls
+*.log
+*.fdb_latexmk
+*.out
+*.toc
+*.synctex.gz
+
+# vscode
+.vscode
+
+# python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
